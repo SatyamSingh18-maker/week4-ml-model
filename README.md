@@ -1,6 +1,5 @@
 # Week 4 – Machine Learning Model Development & Evaluation
 
-Data Science Internship Task | YuvaIntern
 
 ## Overview
 This project builds and evaluates a binary classification model in Python 
